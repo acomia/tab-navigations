@@ -17,6 +17,7 @@ A well-structured React Native application demonstrating diverse and visually ap
    ```
 
 2. **Install dependencies:**
+
    I am using `yarn`, run:
 
    ```
@@ -31,17 +32,12 @@ A well-structured React Native application demonstrating diverse and visually ap
 
 ## Usage
 
-1. **Start the development server**
+**Run the app on an Emulator or real device:**
 
-   ```
-   npx react-native start
-   ```
+```
+yarn ios
 
-2. **Run the app on an Emulator or real device:**
+# for Android:
 
-   ```
-   yarn ios
-
-   # for Android:
-   yarn Android
-   ```
+yarn Android
+```
