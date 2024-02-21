@@ -32,7 +32,7 @@ A well-structured React Native application demonstrating diverse and visually ap
 
 ## Usage
 
-**Run the app on an Emulator or real device:**
+### Run the app on an Emulator or real device:
 
 ```
 yarn ios
