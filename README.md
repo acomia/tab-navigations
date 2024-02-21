@@ -13,7 +13,7 @@ A well-structured React Native application demonstrating diverse and visually ap
 1. **Clone this repository:**
 
    ```
-   git clone [https://github.com/acomia/tab-navigations.git](https://github.com/acomia/tab-navigations.git)
+   git clone https://github.com/acomia/tab-navigations.git
    ```
 
 2. **Install dependencies:**
