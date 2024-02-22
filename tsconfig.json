@@ -5,7 +5,9 @@
     "baseUrl": "./src",
     "paths": {
       "@screens/*": ["screens/*"],
-      "@navigations/*": ["navigations/*"]
+      "@navigations/*": ["navigations/*"],
+      "@types/*": ["types/*"]
     }
-  }
+  },
+  "typeRoots": ["./src/types"]
 }
