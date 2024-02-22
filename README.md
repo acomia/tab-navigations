@@ -1,6 +1,6 @@
 # Tab Navigation Template
 
-A well-structured React Native application demonstrating diverse and visually appealing tab navigation implementations, built with TypeScript.
+A React Native application demonstrating different kind of tab navigation implementations, built with TypeScript.
 
 ## Features
 
