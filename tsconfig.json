@@ -5,6 +5,7 @@
     "baseUrl": "./src",
     "paths": {
       "@screens/*": ["screens/*"],
+      "@components/*": ["components/*"],
       "@navigations/*": ["navigations/*"],
       "@types/*": ["types/*"]
     }

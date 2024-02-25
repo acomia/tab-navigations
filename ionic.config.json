@@ -1,0 +1,7 @@
+{
+  "name": "TabAtlas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
